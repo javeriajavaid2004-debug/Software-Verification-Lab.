@@ -4,10 +4,10 @@
 
 | Symbol | Meaning                                   |
 | ------ | ----------------------------------------- |
-| `∧`    | AND - aur                                 |
-| `∨`    | OR - ya                                   |
-| `¬`    | NOT - nahi                                |
-| `→`    | Implies - agar ye ho, to woh hona chahiye |
+| `∧`    | AND -                               |
+| `∨`    | OR -                                   |
+| `¬`    | NOT -                                |
+| `→`    | Implies - |
 
 ## Variables
 
